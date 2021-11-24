@@ -1,0 +1,50 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Energy",
+      "Combustion"
+    ],
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Energy",
+      "Transportation"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "789ad34d-05e8-bd9e-f05d-8e03380e710d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Internal Combustion Engines",
+  "course_description": "This course studies the fundamentals of how the design and operation of internal combustion engines affect their performance, efficiency, fuel requirements, and environmental impact. Topics include fluid flow, thermodynamics, combustion, heat transfer and friction phenomena, and fuel properties, with reference to engine power, efficiency, and emissions. Students examine the design features and operating characteristics of different types of internal combustion engines: spark-ignition, diesel, stratified-charge, and mixed-cycle engines. The class includes lab project in the Engine Laboratory.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.61",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}

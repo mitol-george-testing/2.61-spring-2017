@@ -1,0 +1,38 @@
+leftnav:
+- identifier: 1aabd4f7-ede9-af9d-317f-db728c49c534
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 70fd8ba8-d583-c52b-8c13-a73d28ce54cf
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: b7cc44d0-f28a-0b1a-af89-9b89c42f0eac
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: c8814f49-78ca-00de-1453-ad9a5e2e44f2
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 40
+- identifier: 64a15f0e-8adc-26d2-cd98-7bcec2ba4de9
+  name: Labs
+  url: /pages/labs/
+  weight: 50
+- identifier: 462a1882-d228-b037-e667-676fad2fbfb1
+  name: Measurement Record Form
+  parent: 64a15f0e-8adc-26d2-cd98-7bcec2ba4de9
+  url: /pages/labs/measurement-record-form
+  weight: 60
+- identifier: 696fbbf8-d09d-b215-3617-ead64aff9d07
+  name: Assignments
+  url: /pages/assignments
+  weight: 70
+- identifier: 597fac46-edcb-d3e4-6ee9-c33d513c0625
+  name: Exams
+  url: /pages/exams
+  weight: 80
+- identifier: 62c2fe9d-a7d9-e5de-8e33-cd8322c52851
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 90
